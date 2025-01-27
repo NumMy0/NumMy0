@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy @NumMy0, un apasionado estudiante de la **Universidad Tecnológica de Pereira (UTP)**. 🎓
+👋 ¡Hola! Soy @NumMy0, Estudiante de la **Universidad Tecnológica de Pereira (UTP)**. 🎓
 
 👀 Estudiante de ingenieria en sistemas y futuro desarrollador **backend**. 💻  
 🌱 Actualmente, estoy aprendiendo sobre **Node.js, Express, MongoDB y APIs RESTful**. 🚀  
