@@ -5,4 +5,4 @@
 💞️ Estoy buscando colaborar en proyectos interesantes que me permitan crecer como desarrollador backend. 🤝  
 📫 Puedes contactarme en mi correo: **santiago.rodriguez9@utp.edu.co**. 📧  
 
---> Pressure is a privilege. 🌟
+--> ***Pressure is a privilege.*** 🌟
